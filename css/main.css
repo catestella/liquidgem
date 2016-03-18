@@ -49,11 +49,6 @@ header img {
 }
 
 /*SECTION ONE - ABOUTWORK*/
-.aboutWork {
-	margin: 10px 15px;
-	
-}
-
 .aboutWork img {
 	text-align: center;
 	height: 58px;
@@ -113,7 +108,6 @@ header img {
 }
 
 a:visited {
-	background-color: white;
 	margin-left: 6px;
 	font-size: 21px;
 }
