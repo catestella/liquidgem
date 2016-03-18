@@ -1,0 +1,180 @@
+* {
+	background-color: #EBEBEB;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+}
+
+/*NAVIGATION*/
+nav {
+	margin: 15px;
+}
+
+nav img {
+	width: 301px;
+}
+
+nav ul {
+	float: right;
+	word-spacing: 33px;
+	margin-right: 10px;
+}
+
+nav li a {
+	color: black;
+}
+
+li {
+	display: inline-block;
+}
+
+
+/*HEADER*/
+header {
+	text-align: center;
+}
+
+.welcome {
+	margin: 50px;
+}
+
+header h1 span {
+	color: #F5B4C4;
+}
+
+header img {
+	height: 400px;
+	width: 1181px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+/*SECTION ONE - ABOUTWORK*/
+.aboutWork {
+	margin: 10px 15px;
+	
+}
+
+.aboutWork img {
+	text-align: center;
+	height: 58px;
+	margin: 0 65px;
+}
+
+.aboutWork p {
+	text-align: left;
+	line-height: 1.5;
+}
+
+.about {
+	width: 45%;
+	display: inline-block;
+}
+
+.work {
+	float: right;
+	width: 45%;
+}
+
+/*SECTION TWO - PHOTOS*/
+.photos {
+	margin-left: 45px;
+}
+
+.photos img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.boxes {
+	display: inline-block;
+	border-radius: 15px;
+	background-color: white;
+	margin: 10px;
+}
+
+.photos h2 {
+	background-color: white;
+	margin-left: 6px;
+	font-size: 21px;
+}
+
+.photos p {
+	background-color: white;
+}
+
+.photos a {
+	background-color: white;
+	margin-left: 6px;
+	color: pink;
+}
+
+.photos span {
+	background-color: white;
+}
+
+a:visited {
+	background-color: white;
+	margin-left: 6px;
+	font-size: 21px;
+}
+
+a:hover {
+	color: red;
+}
+
+/*LAST NOTE*/
+#lastnote img {
+	width: 620px;
+	text-align: center;
+	margin-left: 280px;
+}
+
+/*FOOTER*/
+footer {
+	background-color: #2D2D2D;
+	height: 700%;
+	padding-bottom: 10px;
+}
+
+.contact {
+	display: inline-block;
+	background-color: #2D2D2D;
+}
+
+.contact input {
+	width: 440px;
+	height: 23px;
+	margin: 5px;
+}
+
+.contact textarea {
+	margin: 5px;
+	color: #B2B2B2;
+}
+
+.contact a {
+	background-color: #2D2D2D;
+	color: white;
+	margin: 10px;
+}
+
+.icons {
+	float: right;
+	margin-top: 130px;
+	margin-right: 31px;
+	background-color: #2D2D2D;
+}
+
+.icons i {
+	padding: 10px;
+	background-color: #F5B4C4;
+	border-radius: 50px;
+	word-spacing: 10px;
+	color: #2D2D2D;
+}
+
+.icons a {
+	margin-right:30px;
+	background-color: #2D2D2D;
+}
+
