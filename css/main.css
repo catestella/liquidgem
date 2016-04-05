@@ -172,3 +172,380 @@ footer {
 	background-color: #2D2D2D;
 }
 
+/*========================= MEDIA QUERIES =========================*/
+
+@media (max-width: 1209px) {
+	header img {
+		width: 1100px;
+	}
+}
+
+@media (max-width: 1135px) {
+	header img {
+		width: 1000px;
+	}
+
+	.about {
+		margin-left: 45px;
+	}
+
+	.aboutWork {
+		width: 95%;
+	}
+}
+
+@media (max-width: 1035px) {
+	header img {
+		width: 950px;
+	}
+}
+
+@media (max-width: 987px) {
+	header img {
+		width: 900px;
+	}
+}
+
+@media (max-width: 937px) {
+	header img {
+		width: 850px;
+	}
+}
+
+@media (max-width: 895px) {
+	header img {
+		width: 800px;
+	}
+
+	#lastnote img {
+		margin-left: 130px;
+	}
+}
+
+@media (max-width: 920px) {
+	.aboutWork img {
+		margin: 0px -5px;
+	}
+
+	#lastnote img {
+		margin-left: 130px;
+	}
+}
+
+@media (max-width: 895px) {
+	header img {
+		width: 800px;
+	}
+
+	#lastnote img {
+		margin-left: 130px;
+	}
+}
+
+@media (max-width: 834px) {
+	header img {
+		width: 750px;
+	}
+
+	#lastnote img {
+		margin-left: 100px;
+	}
+}
+
+@media (max-width: 796px) {
+	.about {
+		margin-left: 25px;
+	}
+}
+
+@media (max-width: 787px) {
+	header img {
+		width: 700px;
+	}
+
+	#lastnote img {
+		margin-left: 60px;
+	}
+
+	.icons {
+		margin-top: -140px;
+		margin-right: 31px;
+	}
+}
+
+@media (max-width: 770px) {
+	nav ul {
+		word-spacing: 20px;
+		margin-right: 45px;
+	}
+
+	li {
+		font-size: 14px;
+	}
+}
+
+
+@media (max-width: 758px) {
+	header img {
+		width: 700px;
+	}
+
+	#lastnote img {
+		margin-left: 75px;
+	}
+}
+
+@media (max-width: 754px) {
+	header img {
+		width: 700px;
+	}
+
+	#lastnote img {
+		margin-left: 75px;
+	}
+
+	.icons {
+		margin-top: -145px;
+		margin-right: 105px;
+	}
+
+	.icons a {
+		margin-right: 5px;
+	}
+}
+
+@media (max-width: 748px) {
+	header img {
+		width: 700px;
+	}
+
+	#lastnote img {
+		margin-left: 40px;
+	}
+
+	.icons {
+		display: none;
+	}
+
+	.about {
+		margin-left: 15px;
+	}
+}
+
+@media (max-width: 735px) {
+	header img {
+		width: 650px;
+	}
+
+	#lastnote img {
+		margin-left: 40px;
+	}
+
+	.icons {
+		display: none;
+	}
+
+	nav ul {
+		word-spacing: 9px;
+		margin-right: 69px;
+	}
+
+	nav img {
+		width: 250px;
+	}
+}
+
+@media (max-width: 684px) {
+	.work {
+		display: block;
+		width: 98%;
+	}
+
+	.about {
+		width: 100%;
+	}
+
+	.aboutWork img {
+		margin: 0px 170px;
+	}
+
+	header img {
+		width: 600px;
+	}
+
+	#lastnote img {
+		margin-left: 10px;
+	}
+}
+
+@media (max-width: 684px) {
+	nav ul {
+		margin-right: 310px;
+	}
+
+	hr {
+		display: none;
+	}
+
+	.welcome h1 {
+		padding-top: 40px;
+	}
+}
+
+@media (max-width: 634px) {
+	header img {
+		width: 550px;
+	}
+
+	#lastnote img {
+		margin-left: 22px;
+		width: 500px;
+	}
+}
+
+@media (max-width: 584px) {
+	header img {
+		width: 500px;
+	}
+
+	.aboutWork img {
+		margin: 0px 100px;
+	}
+}
+
+@media (max-width: 534px) {
+	header img {
+		width: 450px;
+	}
+}
+
+@media (max-width: 525px) {
+	#lastnote img {
+		margin-left: 25px;
+		width: 475px;
+	}
+}
+
+@media (max-width: 525px) {
+	#lastnote img {
+		display: none;
+	}
+
+	footer {
+		margin-top: 20%;
+	}
+}
+
+@media (max-width: 481px) {
+	header img {
+		width: 350px;
+		height: 300px;
+	}
+
+	.aboutWork img {
+		margin: 0px 45px;
+	}
+}
+
+@media (max-width: 478px) {
+	.contact input {
+		width: 300px;
+	}
+
+	.contact textarea {
+		width: 300px;
+	}
+}
+
+@media (max-width: 455px) {
+	nav ul {
+		margin-right: 284px;
+	}
+}
+
+@media (max-width: 408px) {
+	.aboutWork img {
+		margin: 0px 0px;
+	}
+
+	@media (max-width: 419px) {
+	nav ul {
+		margin-right: 240px;
+	}
+}
+
+
+/*======== IPHONE6 PLUS ========*/
+
+@media (min-device-width: 414px) and (max-device-width: 736px) {
+	body {
+		height: 55px;
+	}
+	.aboutWork p {
+		font-size: 18px;
+	}
+
+	.welcome h1 {
+		margin-top: 9%;
+	}
+}
+
+/*======== IPHONE6 ========*/
+
+@media (min-device-width: 375px) and (max-device-width: 627px) {
+	body {
+		width: 125%;
+		height: 43px;
+	}
+
+	footer {
+		width: 102%;
+	}
+
+	.about {
+		margin-left: 40px;
+	}
+
+	.aboutWork p {
+		font-size: 15px;
+	}
+
+	.work {
+		margin-right: 35px;
+	}
+
+	#lastnote img {
+		margin-bottom: 10%;
+	}
+
+}
+
+/*======== IPHONE5 ========*/
+@media (min-device-width: 320px) and (max-device-width: 568px) {
+	body {
+		width: 130%;
+		height: 65px;
+	}
+
+	.about {
+		margin-left: 46px;
+	}
+
+	.work {
+		margin-right: 32px;
+	}
+}
+
+/*======== IPAD ========*/
+@media (min-device-width: 768px) and (max-device-width: 1024px) {
+	body {
+		width: 125%;
+		height: 35px;
+	}
+
+	footer {
+		width: 102%;
+	}
+}
+
+
